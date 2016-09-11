@@ -21,9 +21,9 @@ var favoriteMovies = ['The Count of Monte Cristo', 'The Bourne Trilogy', 'The Sw
 
 var jOnAtHaN = {
   collects: 'coins',
-  likes_lizards: 'yes',
+  likes_lizards: true,
   pets: 'cat',
-  can_swim: 'yes'
+  can_swim: true
 }
 
 // 7. Make an array of objects containing more information about your favorite movies. The objects should have at least three properties.
